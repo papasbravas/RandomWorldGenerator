@@ -18,6 +18,8 @@ public class RandomWorldGenerator {
         System.out.println("Hola Mundo");
         System.out.println("Buenas tardes");
         System.out.println("Papas");
+        System.out.println("no es pesao ni na AB");
+        System.out.println("uWu");        
     }
     
 }
